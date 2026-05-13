@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "24/7-AFK-BOT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "Aydin6926.aternos.me:15941",
+    "ip": "Aydin6926.aternos.me",
     "port": 15941,
     "version": "",
     "try-creative": false
