@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "24/7-AFK-BOT",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Aydin6926.aternos.me",
     "port": 15941,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+      
       ]
     },
     "chat-log": true,
