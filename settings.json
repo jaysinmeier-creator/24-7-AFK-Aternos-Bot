@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Aydin6926.aternos.me",
+    "ip": "Aydin6926.aternos.me:15941",
     "port": 15941,
     "version": "",
     "try-creative": false
